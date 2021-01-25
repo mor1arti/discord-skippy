@@ -5,7 +5,7 @@ import time
 import datetime
 
 
-token = 'Nzk4MjI5Nzc5NTAxMTU0Mzc0.X_x_aQ.ZMWqhGbO27a8RZYw_YlVp8u4T_s'
+token = 'твой токен сука'
 bot = commands.Bot(command_prefix="/")
 client = discord.Client()
 
