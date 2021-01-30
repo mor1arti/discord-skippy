@@ -101,5 +101,5 @@ async def start(ctx):
                    "1) /ip\n"
                    "2) /time\n")
 
-bot.run(token)
+bot.run(str(token))
 
